@@ -1,8 +1,12 @@
 
-public class piramides1 {
+public class piramide1 {
 
 	public static void main(String[] args) {
-
+		
+		/*
+		 * Para empezar suponemos que la base va a ser impar
+		 */
+		
 		int base= 9;
 		
 		//Calcular el nº de filas
@@ -47,7 +51,6 @@ public class piramides1 {
 			
 			//imprimir salto de línea
 			System.out.print('\n');
-			System.out.print('\nJesús');
 			
 		}//for
 		
