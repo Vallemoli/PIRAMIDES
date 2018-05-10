@@ -52,6 +52,7 @@ public class piramide1 {
 			//imprimir salto de línea
 			System.out.print('\n');
 			
+			System.out.print("Jesus");
 		}//for
 		
 	}//main
